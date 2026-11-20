@@ -33,7 +33,7 @@ Remove `DataDomeSDK`: delete `pod 'DataDomeSDK'` from your `Podfile` and run `po
 Then add DataDomeURLSession with **File › Add Package Dependencies…**:
 
 ```
-https://github.com/DataDome/mobile-sdk-ios-wrapper-urlsession.git
+https://github.com/DataDome/datadome-urlsession-package
 ```
 
 Raise your app target's **Minimum Deployments** to **iOS 15.0** or later.
