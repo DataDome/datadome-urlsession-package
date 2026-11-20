@@ -27,12 +27,5 @@ let package = Package(
                 .enableUpcomingFeature("ApproachableConcurrency"),
             ]
         ),
-        .testTarget(
-            name: "DataDomeURLSessionTests",
-            dependencies: ["DataDomeURLSession"],
-            swiftSettings: [
-                .enableUpcomingFeature("ApproachableConcurrency"),
-            ]
-        ),
     ]
 )
