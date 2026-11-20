@@ -1,0 +1,15 @@
+{
+  "originHash" : "25fc8dc9db022782e3765b33d681a1159452feff2fcd0ae1f4cf8d30ad656b44",
+  "pins" : [
+    {
+      "identity" : "mobile-package-ios-coredatadome",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DataDome/mobile-package-ios-coredatadome.git",
+      "state" : {
+        "revision" : "71905b7ce6815ddaeb6b316597e8df37900c47db",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
