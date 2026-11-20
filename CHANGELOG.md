@@ -1,4 +1,4 @@
-## 1.0.0 (2026-11-17)
+## 1.0.0 (2026-11-20)
 
 To migrate from `DataDomeSDK`, follow [this migration guide](https://docs.datadome.co/docs/sdk-ios-urlsession-migration-from-datadomesdk).
 
