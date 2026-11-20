@@ -23,4 +23,4 @@ To migrate from `DataDomeSDK`, follow [this migration guide](https://docs.datado
 
 ***
 
-For previous versions, refer to [this changelog](https://docs.datadome.co/update/docs/sdk-ios-changelog).
+For previous versions, refer to [this changelog](https://docs.datadome.co/docs/sdk-ios-changelog).
